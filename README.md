@@ -1,1 +1,2 @@
-# Healthcare-Claims---Where-Is-the-Money-Going-
+# Healthcare Claims - Where Is the Money Going?
+This project analyzes healthcare claims data to understand how medical spending is distributed across members and claim types. Using SQL, the analysis identifies high-cost members, breaks down spending by service category (e.g., inpatient, outpatient, emergency), and compares billed versus paid amounts. The goal is to uncover key cost drivers and provide clear insights into where healthcare dollars are concentrated within the system.
