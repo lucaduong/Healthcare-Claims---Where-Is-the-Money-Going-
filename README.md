@@ -1,5 +1,7 @@
 # Introduction
-This project analyzes healthcare claims data to understand how medical spending is distributed across members and claim types. Using SQL, the analysis identifies high-cost members, breaks down spending by service category (e.g., inpatient, outpatient, emergency), and compares billed versus paid amounts. The goal is to uncover key cost drivers and provide clear insights into where healthcare dollars are concentrated within the system.
+This project analyzes healthcare claims data to understand key drivers of medical spending and identify areas where an insurance company may be losing money. The dataset includes member information, claim types (inpatient, outpatient, emergency, pharmacy), procedure and diagnosis codes (CPT & ICD), as well as billed and paid amounts.
+
+The project focuses on identifying the most expensive claim types, high-cost procedures and diagnoses, and members who contribute the most to total spending. The goal is to provide clear, data-driven insights that help stakeholders understand where healthcare dollars are going and support better decision-making to improve profitability.
 
 ---
 # Tools Used
