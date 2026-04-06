@@ -11,3 +11,13 @@ The goal is to provide clear, data-driven insights that help stakeholders unders
 - Tableau
 
 ---
+
+# Dataset Summary
+
+Total billed amount: $2,039,202
+Total paid amount: $1,531,769
+Number of claims: 440
+Number of members: 100
+Number of providers: 102
+Number of claim types: 5
+
