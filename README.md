@@ -32,6 +32,7 @@ The goal is to provide clear, data-driven insights that help stakeholders unders
 - Pharmacy claims: $10,804 paid, average $146 per claim.
 
 ## 2. CPT Codes (Top 10 by Paid Amount)
+<img width="782" height="568" alt="image" src="https://github.com/user-attachments/assets/db299ee6-074c-4475-89ba-9a579b3c4640" />
 
 ## 3. ICD Codes (Top 10 by Paid Amount)
 
