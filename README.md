@@ -35,5 +35,6 @@ The goal is to provide clear, data-driven insights that help stakeholders unders
 <img width="782" height="568" alt="image" src="https://github.com/user-attachments/assets/db299ee6-074c-4475-89ba-9a579b3c4640" />
 
 ## 3. ICD Codes (Top 10 by Paid Amount)
+<img width="698" height="568" alt="image" src="https://github.com/user-attachments/assets/0930338a-e0be-4c93-9986-68bfe1361292" />
 
 
