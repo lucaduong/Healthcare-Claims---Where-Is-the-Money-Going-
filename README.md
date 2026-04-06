@@ -31,10 +31,8 @@ The goal is to provide clear, data-driven insights that help stakeholders unders
 - Lab claims: $23,413 paid, average $308 per claim.
 - Pharmacy claims: $10,804 paid, average $146 per claim.
 
-## 2. CPT Codes (Top 10 by Paid Amount)
-<img width="782" height="568" alt="image" src="https://github.com/user-attachments/assets/db299ee6-074c-4475-89ba-9a579b3c4640" />
+## 2. CPT & ICD Cost Drivers
+<img width="1298" height="1302" alt="image" src="https://github.com/user-attachments/assets/057097b4-a7c5-4772-83c2-3133eb9980b0" />
 
-## 3. ICD Codes (Top 10 by Paid Amount)
-<img width="698" height="568" alt="image" src="https://github.com/user-attachments/assets/0930338a-e0be-4c93-9986-68bfe1361292" />
 
 
