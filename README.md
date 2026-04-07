@@ -56,6 +56,8 @@ High costs driven by Inpatient + Emergency claims.
 
 <img width="332" height="384" alt="image" src="https://github.com/user-attachments/assets/d2a9d137-dc04-4dad-8f40-53891189d748" />
 
-
+- Inpatient and emergency services show the lowest reimbursement efficiency, while lab and pharmacy are paid closest to billed amounts.
+- Focus cost optimization efforts on inpatient and emergency services, where the gap between billed and paid amounts is largest.
+- Monitor high-ratio categories (lab, pharmacy) for potential overpayment risks or pricing inefficiencies.
 
 
