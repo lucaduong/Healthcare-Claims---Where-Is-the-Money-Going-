@@ -54,8 +54,7 @@ High costs driven by Inpatient + Emergency claims.
 - Total paid = $1,531,769
 - Reimbursement rate = 75%
 
-- Paid ratio by claim type:
-<img width="162" height="136" alt="Screenshot 2026-04-07 at 7 42 42 PM" src="https://github.com/user-attachments/assets/24cb7daf-c06e-44e9-a21f-4572c6a8475d" />
+<img width="332" height="384" alt="image" src="https://github.com/user-attachments/assets/d2a9d137-dc04-4dad-8f40-53891189d748" />
 
 
 
