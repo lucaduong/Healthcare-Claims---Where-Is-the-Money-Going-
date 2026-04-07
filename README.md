@@ -43,4 +43,9 @@ The top ICD codes reveal which medical conditions are most expensive for the ins
 Codes such as B99.4 and A01.1 have very high average cost per claim, indicating severe or complex cases that require expensive treatments.  
 Meanwhile, E11.9 has the highest claim count but relatively low average cost, suggesting it represents common but less expensive conditions.
 
+## 3. Member-Level Analysis
+<img width="1298" height="1302" alt="image" src="https://github.com/user-attachments/assets/b0f3cbdd-ec41-48a1-93f0-eb6ee7ed3faf" />
+
+High costs driven by Inpatient + Emergency claims.
+
 
