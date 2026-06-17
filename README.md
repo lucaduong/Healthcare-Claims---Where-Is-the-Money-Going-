@@ -51,9 +51,8 @@
 <img width="1298" height="1302" alt="image" src="https://github.com/user-attachments/assets/057097b4-a7c5-4772-83c2-3133eb9980b0" />   
 
 * CPT Code Insights (Procedures):
-  
-** The top 10 CPT codes account for a significant portion of total paid amounts, indicating that a small number of procedures drive a large share of costs.  
-** CPT code 67890 generated the highest total spending, driven by both relatively high volume and high cost per claim. Some procedures, such as 123 and 99223, show very high average paid per claim, suggesting they are expensive on a per-service basis despite lower claim counts.
+*    The top 10 CPT codes account for a significant portion of total paid amounts, indicating that a small number of procedures drive a large share of costs.
+*    CPT code 67890 generated the highest total spending, driven by both relatively high volume and high cost per claim. Some procedures, such as 123 and 99223, show very high average paid per claim, suggesting they are expensive on a per-service basis despite lower claim counts.
 
 * ICD Code Insights (Diagnoses):
   
