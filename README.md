@@ -1,18 +1,31 @@
-# Introduction
-This project analyzes healthcare claims data to understand key drivers of medical spending and identify areas where an insurance company may be losing money. It focuses on identifying the most expensive claim types, high-cost procedures and diagnoses, and members who contribute the most to total spending.
+# 🏥 Healthcare Insurance Claims - Where Is the Money Going?
 
-The goal is to provide clear, data-driven insights that help stakeholders understand where healthcare dollars are going and support better decision-making to improve profitability.
+<img width="600" height="352" alt="image" src="https://github.com/user-attachments/assets/d005a8dd-d32a-4e48-b38c-43782118e487" />
+
+# I. Introduction
+
+## 1. Business Problems
+* The health insurance is losing money and they want to figure out why. Where we are bleeding money and try to become profitable again.
+
+## 2. Objectives
+1. Which claim types are the most expensive?  
+2. Which CPT and ICD codes drive the highest spending?  
+3. Which members account for the largest share of total costs?  
+4. How do billed amounts compare to paid amounts?
+
+   
+* This project analyzes healthcare claims data to understand key drivers of medical spending and identify areas where an insurance company may be losing money. It focuses on identifying the most expensive claim types, high-cost procedures and diagnoses, and members who contribute the most to total spending.
+* The goal is to provide clear, data-driven insights that help stakeholders understand where healthcare dollars are going and support better decision-making to improve profitability.
+
+## 3. Tools Used
+
+* MySQL
+* Excel
+* PowerBI
 
 ---
-# Tools Used
 
-- SQL
-- Excel
-- Tableau
-
----
-
-# Dataset Summary
+# II. Dataset Summary
 
 - Total billed amount: $2,039,202
 - Total paid amount: $1,531,769
