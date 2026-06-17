@@ -39,7 +39,7 @@
 # III. Analysis
 
 ## 1. Claim Type Cost Breakdown
-- Inpatient claims = $1,074,056 (70.12% of total spend), average $11K per claim.
+- Inpatient claims = $1,074,056 (70.12% of total spend) --> average $11K per claim.
 - Emergency claims = $294,442 paid, average $3.3K per claim.
 - Outpatient claims = $129,054 paid, average $1.2k per claim.
 - Lab claims = $23,413 paid, average $308 per claim.
